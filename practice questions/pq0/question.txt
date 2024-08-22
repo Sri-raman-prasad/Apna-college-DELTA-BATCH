@@ -1,0 +1,4 @@
+for given image apply following css styling
+1) h2 - orange text
+2) button -blue (background) white(text)
+3) p - black (background) white (text)
