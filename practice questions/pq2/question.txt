@@ -1,0 +1,2 @@
+Write css statement to implement the following:
+->set the color for paragraphs inside the div with the id "myid" to green
