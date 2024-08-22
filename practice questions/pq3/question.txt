@@ -1,0 +1,5 @@
+implemet the following CSS for the given html document
+1) set the font family of entire document to Courier New
+2) set text color for all h1 headings to #1b74e4
+3) set the background color of search button to black & text to white
+4) set the background color of login & sign-up button to aqua
