@@ -1,0 +1,40 @@
+
+        *{
+            text-align: center;
+        }
+        #mainTopic{
+            color:blue;
+
+        }
+
+        .para{
+            background-color:cornflowerblue ;
+            color:white;
+        }
+
+        h1,h3,h5{
+            font-family:Georgia;
+        }
+
+        div button{
+            background-color: purple;
+            color:azure;
+        }
+
+        div:hover{
+            background-color: yellow;
+            color:blue;
+
+        }
+
+        p:nth-of-type(odd){
+            color:yellow;
+        }
+
+        input:checked + label {
+         color: darkgreen;
+}
+
+        h1::first-letter{
+            color: red;
+        }
